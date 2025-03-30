@@ -2,10 +2,10 @@
 <h3 align="center">A Data Engineer & Business Analyst | Founder & CEO of Dispatch Hub</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/">
+  <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:oxward@dispatchhub.org">
+  <a href="mailto:oxward@dispatchhub.org" target="_blank">
     <img src="https://img.shields.io/badge/Email-oxward@dispatchhub.org-red?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
@@ -50,10 +50,10 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/">
+  <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:oxward@dispatchhub.org">
+  <a href="mailto:oxward@dispatchhub.org" target="_blank">
     <img src="https://img.shields.io/badge/Email-oxward@dispatchhub.org-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
