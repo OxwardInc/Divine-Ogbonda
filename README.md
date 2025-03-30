@@ -1,58 +1,94 @@
-<h1 align="center">Hi 👋, I'm Divine Ogbonda</h1>
-<h3 align="center">A Data Engineer & Business Analyst | Founder & CEO of Dispatch Hub</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        h1, h3, p {
+            opacity: 0;
+            animation: fadeIn 1s forwards ease-in-out;
+        }
+        img {
+            max-width: 100%;
+        }
+        .section {
+            margin: 30px 0;
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 1s ease-out, transform 1s ease-out;
+        }
+        .visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/">
-    <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:oxward@dispatchhub.org">
-    <img src="https://img.shields.io/badge/Email-oxward@dispatchhub.org-red?style=flat-square&logo=gmail" alt="Email">
-  </a>
-</p>
+    <h1 class="animate__animated animate__fadeInDown">Hi 👋, I'm Divine Ogbonda</h1>
+    <h3 class="animate__animated animate__fadeInUp">A Data Engineer & Business Analyst | Founder & CEO of Dispatch Hub</h3>
 
----
+    <p class="section">
+        <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/">
+            <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        </a>
+        <a href="mailto:oxward@dispatchhub.org">
+            <img src="https://img.shields.io/badge/Email-oxward@dispatchhub.org-red?style=flat-square&logo=gmail" alt="Email">
+        </a>
+    </p>
 
-## 🔥 About Me
-- 💼 **CEO & Founder** of [Dispatch Hub](https://dispatchhub.org)
-- 🚀 Experienced in **Data Engineering, SQL, Python, NLP & Machine Learning**
-- 📊 Passionate about **Business Analysis, ETL Pipelines, and Data Warehousing**
-- 🌍 Building scalable logistics solutions for e-commerce in Nigeria
-- 📫 Reach me at **oxward@dispatchhub.org** or **[LinkedIn](https://www.linkedin.com/in/divine-ogbonda-625014179/)**
+    <div class="section">
+        <h2>🔥 About Me</h2>
+        <p>💼 CEO & Founder of <a href="https://dispatchhub.org">Dispatch Hub</a></p>
+        <p>🚀 Experienced in Data Engineering, SQL, Python, NLP & Machine Learning</p>
+        <p>📊 Passionate about Business Analysis, ETL Pipelines, and Data Warehousing</p>
+        <p>🌍 Building scalable logistics solutions for e-commerce in Nigeria</p>
+    </div>
 
----
+    <div class="section">
+        <h2>🚀 Tech Stack</h2>
+        <img src="https://skillicons.dev/icons?i=python,postgres,django,aws,html,css,js,react,github"/>
+    </div>
 
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    <div class="section">
+        <h2>📈 GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=OxwardInc&show_icons=true&theme=dark" width="48%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxwardInc&layout=compact&theme=dark" width="48%">
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxwardInc&theme=dark" width="48%">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OxwardInc&theme=github-dark" width="100%">
+    </div>
 
----
+    <div class="section">
+        <h2>📫 Connect with Me</h2>
+        <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/">
+            <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+        </a>
+        <a href="mailto:oxward@dispatchhub.org">
+            <img src="https://img.shields.io/badge/Email-oxward@dispatchhub.org-red?style=for-the-badge&logo=gmail" alt="Email">
+        </a>
+    </div>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OxwardInc&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxwardInc&layout=compact&theme=dark" alt="Top Languages" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxwardInc&theme=dark" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OxwardInc&theme=github-dark" alt="GitHub Activity Graph" width="100%">
-</p>
-
----
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/">
-    <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:oxward@dispatchhub.org">
-    <img src="https://img.shields.io/badge/Email-oxward@dispatchhub.org-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
-
+    <script>
+        const sections = document.querySelectorAll('.section');
+        window.addEventListener('scroll', () => {
+            sections.forEach(section => {
+                const sectionTop = section.getBoundingClientRect().top;
+                if (sectionTop < window.innerHeight - 100) {
+                    section.classList.add('visible');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
