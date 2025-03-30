@@ -1,51 +1,58 @@
-# Hi there, I'm Divine Ogbonda 👋
-
-🚀 **Data Engineer | NLP Enthusiast | Tech Founder**  
-📍 **CEO at Dispatch Hub**  
-
----
-
-## 🔥 About Me
-
-👨‍💻 Passionate about **Data Engineering**, **Machine Learning**, and **Natural Language Processing (NLP)**.  
-🎯 Currently building **Dispatch Hub**, a logistics platform optimizing door-to-door delivery services.  
-📊 I enjoy working with **SQL, Python, Django, PostgreSQL, and cloud-based data solutions**.
-
-📚 Currently pursuing a **Computer Science degree at the University of Port Harcourt**.
-
----
-
-## ⚡ Tech Stack
-
-- **Programming Languages:** Python, SQL, JavaScript
-- **Frameworks & Libraries:** Django, Flask, Pandas, NumPy, Scikit-learn, TensorFlow
-- **Databases:** PostgreSQL, MySQL, Firebase
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions
-- **Tools:** Jupyter Notebook, Git, VS Code
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Divine Ogbonda</h1>
+<h3 align="center">A Data Engineer & Business Analyst | Founder & CEO of Dispatch Hub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divine-Ogbonda&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-Ogbonda&layout=compact&theme=dark" alt="Top Languages" width="48%">
+  <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/">
+    <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:oxward@dispatchhub.org">
+    <img src="https://img.shields.io/badge/Email-oxward@dispatchhub.org-red?style=flat-square&logo=gmail" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 🌟 Projects
-
-🔹 **Uber Route Analytics** – Built a platform analyzing Uber routes using Google Maps API.  
-🔹 **NLP Chatbot** – Developed an AI chatbot for customer support using Hugging Face models.  
-🔹 **ETL Pipeline for Analytics** – Designed a pipeline for structured data transformation in PostgreSQL.  
-🔹 **Dispatch Hub Logistics API** – Building a **Django-based API** to optimize delivery routing.  
+## 🔥 About Me
+- 💼 **CEO & Founder** of [Dispatch Hub](https://dispatchhub.org)
+- 🚀 Experienced in **Data Engineering, SQL, Python, NLP & Machine Learning**
+- 📊 Passionate about **Business Analysis, ETL Pipelines, and Data Warehousing**
+- 🌍 Building scalable logistics solutions for e-commerce in Nigeria
+- 📫 Reach me at **oxward@dispatchhub.org** or **[LinkedIn](https://www.linkedin.com/in/divine-ogbonda-625014179/)**
 
 ---
 
-## 📬 Connect With Me
+## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🔗 **LinkedIn:** [Divine Ogbonda](https://www.linkedin.com/in/divine-ogbonda-625014179/)  
-📧 **Email:** [oxward@dispatchhub.org](mailto:oxward@dispatchhub.org)  
+---
 
-🚀 Let's connect and build something amazing together! 💡
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OxwardInc&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxwardInc&layout=compact&theme=dark" alt="Top Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OxwardInc&theme=dark" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=OxwardInc&theme=github-dark" alt="GitHub Activity Graph" width="100%">
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/divine-ogbonda-625014179/">
+    <img src="https://img.shields.io/badge/LinkedIn-DivineOgbonda-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:oxward@dispatchhub.org">
+    <img src="https://img.shields.io/badge/Email-oxward@dispatchhub.org-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
