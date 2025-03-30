@@ -18,8 +18,14 @@ I'm a data engineer passionate about building scalable data solutions, optimizin
 ---
 
 ## 📊 GitHub Stats  
-![Divine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divine-Ogbonda&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-Ogbonda&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divine-Ogbonda&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divine-Ogbonda&theme=radical" width="48%" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-Ogbonda&layout=compact&theme=radical" width="48%" alt="Top Languages">
+</p>
 
 ---
 
