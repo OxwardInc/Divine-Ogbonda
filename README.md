@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/614f78ffcc10fcc26264672d708995a86268a993b971267f971be630ae8217cd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64657673796c76612673686f775f69636f6e733d74727565267468656d653d6461726b" alt="GitHub Stats" width="48%">
-  <img src="https://camo.githubusercontent.com/963a7d793d43072f8c285118a0fa22538f7e4946755e22f56f3fef275df98c7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64657673796c7661266c61796f75743d636f6d70616374267468656d653d6461726b" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divine-Ogbonda&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divine-Ogbonda&layout=compact&theme=dark" alt="Top Languages" width="48%">
 </p>
 
 ---
